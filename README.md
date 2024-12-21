@@ -1,5 +1,5 @@
 # Driver_Drowsiness_Detection_System
-◦ Developed a basic eye movement detection model to monitor user alertness
+◦ Developed a basic eye movement detection model to monitor user alertness.
 
 ◦ Implemented real-time eye-tracking technology for the early detection of drowsiness, achieving enhanced safety
 measures.
